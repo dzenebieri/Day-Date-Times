@@ -1,0 +1,17 @@
+body {
+  background-color: black;
+  color: gray;
+}
+
+.timesDivCS {
+  display: inline-block;
+  position: absolute;
+  font-size: 36px;
+  left: 30%;
+  top: 30%;
+}
+
+.timesDivCS:hover {
+  transition: 0.6s ease;
+  color: white;
+}
